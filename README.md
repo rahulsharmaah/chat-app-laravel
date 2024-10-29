@@ -71,8 +71,11 @@ A real-time chat application built with Laravel, Vite, and Pusher. This applicat
    ```bash
    npm run dev
    ```
-
-After running these commands, you can access your chat application at [http://localhost:8000](http://localhost:8000).
+10. **For Starting web Socket:**
+   ```bash
+   http://127.0.0.1:8000/laravel-websockets
+   ```
+After running these commands, you can access your chat application at [http://localhost:8000](http://localhost:8000). 
 
 ## Usage
 
